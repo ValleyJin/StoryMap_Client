@@ -1,0 +1,5 @@
+# API 관련
+requests~=2.31.0
+
+# 환경변수 관리
+python-dotenv~=1.0.0
